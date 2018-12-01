@@ -1,16 +1,12 @@
 .Square {
-    margin: 20px;
-    margin-right: 0;
-    position: relative;
+  margin: 20px;
+  margin-right: 10px;
+  float: left;
 }
 
 .SquareControls {
-    position: absolute;
-    right: -220px;
-    text-align: left;
-    width: 200px;
-}
-
-.SquareContainer .clear {
-    clear: both;
+  margin-top: 20px;
+  text-align: left;
+  width: 200px;
+  float: left;
 }
